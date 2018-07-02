@@ -13,7 +13,7 @@ metadata:
 spec:
   containers:
   - name: tempsensor
-    image: "microsoft/azureiotedge-simulated-temperature-sensor:1.0-preview"
+    image: "mcr.microsoft.com/azureiotedge-simulated-temperature-sensor:1.0"
   nodeSelector:
     type: virtual-kubelet
   tolerations:
