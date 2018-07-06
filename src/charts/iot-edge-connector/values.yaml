@@ -1,5 +1,5 @@
 edgeproviderimage:
-  repository: microsoft/iot-edge-vk-provider
+  repository: akubicharm/iot-edge-vk-provider
   tag: latest
   pullPolicy: Always
   port: 5000
